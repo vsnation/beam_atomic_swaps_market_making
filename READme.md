@@ -8,10 +8,10 @@ Download electrum from <link>https://electrum.org/#download</link>
 
 <code>cd [ELECTRUM_FOLDER]</code>
 
-#####Restore wallet by seed
+##### Restore wallet by seed
 <code>electrum restore "[SEED]"</code>
 
-####Set settings to config file
+#### Set settings to config file
 <code>vim ~/.electrum/config</code>
 
 Paste 
